@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 1.5rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #4CAF50;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      margin-bottom: 1rem;
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #333;
+      color: white;
+      margin-top: 2rem;
+    }
+    a {
+      color: #4CAF50;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Jeevashree S</h1>
+    <p>Welcome to my personal portfolio</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I'm Jeevashree, a passionate learner currently pursuing my B.Tech in Electronics and Communication Engineering at University Visvesvaraya College of Engineering (UVCE), Bangalore.
+    </p>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <p>
+      SDC Independent pu College
+      XII - 97.66% </p>
+      
+      Suvarna central school
+      X - 98.06%
+    </p>
+  </section>
+
+  <section id="interests">
+    <h2>Interests</h2>
+    <p>
+      painting </p> sketching </p> creating mandala art</p> Travelling and exploring new places</p>
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:jeevashree@example.com">jeevashree@example.com</a></p>
+    <p>Phone: +91 98765 43210</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Jeevashree S. All rights reserved.
+  </footer>
+
+</body>
+</html>
